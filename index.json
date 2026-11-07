@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "dash-canvas",
+  "versions": [
+    {
+      "commit": "4f4df65b43acb20bae7eb34572ca240dabfbfb72",
+      "tag": "",
+      "parsed_at": "2026-11-07T02:17:42.762527+00:00"
+    }
+  ]
+}
